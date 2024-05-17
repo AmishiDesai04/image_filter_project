@@ -1,4 +1,4 @@
-Image Filter Project – Python
+**Image Filter Project – Python**
 
 Overview
 The Image Filter Project is a Python-based application designed to enable users to apply a variety of image filters to their images. This versatile tool allows users to select an image from their device, capture an image using their webcam, or utilize a default image. The application offers several filter options, including grayscale, inverted, blur, sketch, watercolor, and pencil sketch.
