@@ -12,12 +12,12 @@ The Image Filter Project is a Python-based application designed to enable users 
 
 **Filter Options:** Users can apply the following filters to their selected image:
 
-* <i>Grayscale:</i> Convert the image to grayscale.
-* <i>Inverted:</i> Invert the colors of the image.
-* <i>Blur:</i> Apply a blur effect to the image.
-* <i>Sketch:</i> Convert the image to a pencil sketch.
-* <i>Watercolor:</i> Apply a watercolor effect to the image.
-* <i>Pencil Sketch:</i> Create a detailed pencil sketch of the image.
+ * <i>Grayscale:</i> Convert the image to grayscale.
+ * <i>Inverted:</i> Invert the colors of the image.
+ * <i>Blur:</i> Apply a blur effect to the image.
+ * <i>Sketch:</i> Convert the image to a pencil sketch.
+ * <i>Watercolor:</i> Apply a watercolor effect to the image.
+ * <i>Pencil Sketch:</i> Create a detailed pencil sketch of the image.
 
 ## Prerequisites
 
@@ -49,11 +49,13 @@ To run this project, ensure that you have the following software installed:
    ```
    
 2. **Select an Image:**
+   
    * From Device: Choose the "Select from your device" option and browse to select an image file.
    * Capture Image: Choose the "Capture Image" option to use the webcam. Follow the on-screen instructions to capture an image.
    * Default Image: Choose the "Default Picture" option to use the predefined image.
 
 3. **Apply Filters:** Use the provided buttons to apply different filters to the selected image:
+   
    * Inverted
    * Gray Scale
    * Blur
@@ -65,4 +67,4 @@ To run this project, ensure that you have the following software installed:
 
 ## Screenshots
 
-
+![image](https://github.com/AmishiDesai04/image_filter_project/assets/170110607/dc311a13-ba5b-41a9-8777-42f162829a09)
