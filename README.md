@@ -29,7 +29,7 @@ To run this project, ensure that you have the following software installed:
 * NumPy: `pip install numpy`
 * Tkinter
 
-## Instalaation
+## Instalation
 
 1. **Clone the Repository**
    
@@ -72,5 +72,7 @@ To run this project, ensure that you have the following software installed:
 
 ![image](https://github.com/AmishiDesai04/image_filter_project/assets/170110607/b4e1d297-1c84-46c2-b33e-8fae479e4cac)
 
+##
 
+Please don't hesitate to offer suggestions, report any issues you encounter, share your feedback, or engage in any other form of communication! Your input is highly valued and appreciated.
 
