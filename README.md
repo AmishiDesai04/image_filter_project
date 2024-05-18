@@ -74,7 +74,7 @@ To run this project, ensure that you have the following software installed:
 
 ## Authors
 
-* 
+This project is co-owned by @AmishiDesai04 @chahelgupta
 
 ##
 
