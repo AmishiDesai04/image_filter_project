@@ -35,7 +35,7 @@ To run this project, ensure that you have the following software installed:
    
    ```
    git clone https://github.com/AmishiDesai04/image_filter_project.git
-   cd image-filter-project
+   cd image_filter_project
    ```
    
 2. **Install the Required Libraries**
