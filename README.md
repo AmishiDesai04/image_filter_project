@@ -29,4 +29,40 @@ To run this project, ensure that you have the following software installed:
 * NumPy: `pip install numpy`
 * Tkinter
 
+## Instalaation
+
+1. **Clone the Repository**
+   ```
+   git clone https://github.com/AmishiDesai04/image_filter_project.git
+   cd image-filter-project
+   ```
+2. **Install the Required Libraries**
+   ```
+   pip install pillow opencv-python numpy
+   ```
+
+## Usage
+
+1. **Run the Application**
+   ```
+   python final.py
+   ```
+   
+2. **Select an Image:**
+   * From Device: Choose the "Select from your device" option and browse to select an image file.
+   * Capture Image: Choose the "Capture Image" option to use the webcam. Follow the on-screen instructions to capture an image.
+   * Default Image: Choose the "Default Picture" option to use the predefined image.
+
+3. **Apply Filters:** Use the provided buttons to apply different filters to the selected image:
+   * Inverted
+   * Gray Scale
+   * Blur
+   * Sketch
+   * Water Color
+   * Pencil Sketch
+     
+4. **Exit:** Click the "Exit" button to close the application.
+
+## Screenshots
+
 
